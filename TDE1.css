@@ -1,0 +1,41 @@
+body { 
+    background-image: linear-gradient(to left, rgb(46, 9, 194), rgb(119, 5, 5));
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+
+#mainTitle {
+    color: rgba(240, 248, 255, 0.61);
+    font-size: 300%;
+}
+
+#secondTitle {
+    color: rgba(240, 248, 255, 0.61);
+    text-align: center;
+}
+
+#thirdTitle {
+    color: rgb(0, 0, 0);
+    font-size: 200%; 
+    text-align: justify;
+}
+ 
+.textual {
+    color: rgba(240, 248, 255, 0.61);
+    padding-right: 80px;
+    text-align: justify;
+    font-size: 120%;
+}
+
+.citacao {
+    color: rgba(240, 248, 255, 0.61);
+    text-align: justify;
+    font-size: 120%;
+}
+
+.topicos {
+    color: black;    
+    font-size: 150%;
+
+}
